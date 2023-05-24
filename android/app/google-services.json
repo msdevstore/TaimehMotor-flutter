@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "624439745626",
+    "project_id": "arionmotor-7d22b",
+    "storage_bucket": "arionmotor-7d22b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624439745626:android:1b18e149b99ce70579cc63",
+        "android_client_info": {
+          "package_name": "com.example.arionmotor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624439745626-2mqkfo5fgtcnet4qb9ajt5rumv9ho13b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.arionmotor",
+            "certificate_hash": "d302a81137716dda3e6a5712ccf93ff6dc793942"
+          }
+        },
+        {
+          "client_id": "624439745626-829uurr08bjpdl352e855thkaq3r5gn1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnOLgR14OKZnTU5-BZxolLiRPw1OHnd7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624439745626-829uurr08bjpdl352e855thkaq3r5gn1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "624439745626-9ik6lgltdajhocl4rt15kj9gcaa0vjsr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.arionmotor"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

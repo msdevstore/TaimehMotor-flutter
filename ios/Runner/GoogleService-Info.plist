@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>624439745626-9ik6lgltdajhocl4rt15kj9gcaa0vjsr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.624439745626-9ik6lgltdajhocl4rt15kj9gcaa0vjsr</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCaGjD6xcLZOYQ4TnZXmOqyXJ6L3yjOCwY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>624439745626</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.arionmotor</string>
+	<key>PROJECT_ID</key>
+	<string>arionmotor-7d22b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arionmotor-7d22b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:624439745626:ios:53a2b6c5564b00da79cc63</string>
+</dict>
+</plist>
